@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**kubaamarczak/kubaamarczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+📍 Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Currently studying Data Science with a focus on Machine Learning  
+- Building real-world projects to apply statistical and ML concepts  
+- Interested in data-driven decision making and model evaluation  
+
+---
+
+## 🧠 Skills
+
+- **Programming:** Python (pandas, NumPy, scikit-learn), R
+- **Visualization:** Python (matplotlib, seaborn), R (ggplot)
+- **Machine Learning:** Classification, Regression, Model Evaluation 
+
+---
+
+## 📂 Projects
+
+- 🩺 **Diabetes Prediction System**  
+  Machine learning pipeline with focus on recall and model optimization 
+
+- 🎵 **Music Recommendation System**  
+  Content-based recommender using k nearest neighbors and audio features  
+
+- 📈 **Regression Project (coming soon)**  
+
+---
+
+## 📫 Contact
+
+- GitHub: kubaamarczak
