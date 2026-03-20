@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 
-- Currently studying Data Science with a focus on data-driven decision making using machine learning
+- Currently studying Data Science with a focus on applied data science and real-world problem solving
 - Building real-world projects to apply statistical and ML concepts  
-- Interested in data-driven decision making and model evaluation  
+- Interested in data-driven decision making and model evaluation
 
 ---
 
