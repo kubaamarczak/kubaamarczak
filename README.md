@@ -23,14 +23,14 @@
 
 ## 📂 Projects
 
-- 📈 **House Price Prediction System** \
+- 🎵 **Music Recommendation System**  
+  Content-based recommender using k nearest neighbors and audio features  
+
+- 📈 **House Price Prediction System**  
   Machine learning pipeline with focus on predictive power and model optimization
 
 - 🩺 **Diabetes Prediction System**  
   Machine learning pipeline with focus on recall and model optimization 
-
-- 🎵 **Music Recommendation System**  
-  Content-based recommender using k nearest neighbors and audio features  
 
 ---
 
